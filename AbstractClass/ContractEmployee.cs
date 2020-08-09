@@ -14,12 +14,11 @@ namespace AbstractClass
         public int HourlyPay { get; set; }
         public int TotalHoursWorked { get; set; }
 
-        /* This is a common method define in more than one class and has be moved to the abstract class ...
-        public string GetFullName()
-        {
-            return this.FirstName + " " + this.LastName;
-        }
-        */
+        // This is a common method define in more than one class and has be moved to the abstract class ...
+        //public string GetFullName()
+        //{
+            //return this.FirstName + " " + this.LastName;
+        //}
 
         //This method must be defined in this implementation because it is defined 
         // as an abstract method in the base class and also need the keyword override ...
