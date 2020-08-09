@@ -6,7 +6,8 @@ namespace AbstractClass
 {
     class ContractEmployee: BaseEmployee
     {
-        // Updated 2020-08-08
+        // Update from VS 2020-08-08 at 10:22 pm
+        // Updated 2020-08-08 Done in GitHub.com
         // Some properties were moved to the BaseEmployee class ...
         // public int ID { get; set; }
         // public string FirstName { get; set; }
