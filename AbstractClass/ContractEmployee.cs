@@ -6,6 +6,7 @@ namespace AbstractClass
 {
     class ContractEmployee: BaseEmployee
     {
+        // Update from VS 2020-08-10 at 12:16 am
         // Update done in GitHub 2020-08-09 at 11:45 pm
         // Update from VS 2020-08-08 at 12:05 am
         // Update from VS 2020-08-08 at 11:02 pm
